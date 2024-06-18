@@ -4,5 +4,7 @@ Implementação de testes nos projetos carrinho de compras e api livraria utiliz
 
 ## 🛠️ Ferramentas utilizadas
 
-* [JEST](https://jestjs.io/pt-BR/)
 * [Node](https://nodejs.org/en)
+* [JEST](https://jestjs.io/pt-BR/)
+* [SuperTest](https://www.npmjs.com/package/supertest)
+* [ESLint](https://eslint.org/)
