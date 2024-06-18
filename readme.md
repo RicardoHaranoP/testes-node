@@ -1,6 +1,6 @@
 ## Implementação de Testes com Jest
 
-Implementação de testes nos projetos carrinho de compras e api livraria utilizando a ferramenta Jest.
+Implementação de testes unitários e de integração nos projetos carrinho de compras e api livraria utilizando a ferramenta Jest e SuperTest.
 
 ## 🛠️ Ferramentas utilizadas
 
